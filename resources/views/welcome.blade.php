@@ -5,7 +5,7 @@
                 <div class="banner-content">
                     <div class="row">
                         <div class="col-md-6">
-                            <h1 class="animate-bottom delayms5">Welcome to <br /><span class="ucap">Crypto-Giant</span></h1>
+                            <h1 class="animate-bottom delayms5">Welcome to <br /><span class="ucap">Crypto-Giant.co</span></h1>
                             <p class="lead animate-bottom delayms7">A Bitcoin investment you can Trust</p>
                             <ul class="btns animate-bottom delayms9">
                                 <li><a href="{{ url('about-crypto-gaint') }}" class="btn">View more</a></li>
